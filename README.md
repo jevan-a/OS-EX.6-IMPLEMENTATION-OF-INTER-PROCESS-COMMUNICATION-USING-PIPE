@@ -44,7 +44,8 @@ return 0;
 
 
 ## OUTPUT:
-![Uploading WhatsApp Image 2023-10-04 at 15.54.10_d149594d.jpg…]()
+![image](https://github.com/jevan-a/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/134593017/2a4716b6-ac43-483c-9e94-53a2f3daabfd)
+
 
 
 ## RESULT:
